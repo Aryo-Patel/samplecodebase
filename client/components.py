@@ -1,0 +1,1 @@
+component = "I am a component"
